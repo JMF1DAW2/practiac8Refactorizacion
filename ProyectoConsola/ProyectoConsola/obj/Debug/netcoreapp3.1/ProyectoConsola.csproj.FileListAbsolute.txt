@@ -1,0 +1,4 @@
+C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.csprojAssemblyReference.cache
+C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfo.cs
+C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.csproj.CoreCompileInputs.cache
