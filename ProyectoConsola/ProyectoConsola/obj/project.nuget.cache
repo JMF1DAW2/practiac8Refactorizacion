@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LrKgktVF/T61MOz3RCebmvpp2XU5Q9kDNRyn70FxUKH6/fOORCJKkIucJwF1dm70m2jVZbB0G543/iy0uAut0g==",
+  "dgSpecHash": "YYV4LIgKi8xqQ925G7t9IS/4AZsybK5hJqNIbe7dwiRn1q49k+TIZRCNLBHc4sttEc8wrMe0kwdVLC7NYi7C6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\solar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
