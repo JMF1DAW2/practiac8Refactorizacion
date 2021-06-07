@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj": {}
+    "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj": {
+    "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
+        "projectUniqueName": "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
         "projectName": "ProyectoConsola",
-        "projectPath": "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
-        "packagesPath": "C:\\Users\\solar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\solar\\source\\repos\\JMF1DAW2\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\obj\\",
+        "projectPath": "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\ProyectoConsola.csproj",
+        "packagesPath": "C:\\Users\\Lau 2019\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lau 2019\\Source\\Repos\\JMF1DAW1\\practiac8Refactorizacion\\ProyectoConsola\\ProyectoConsola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\solar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lau 2019\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

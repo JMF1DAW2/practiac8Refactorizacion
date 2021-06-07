@@ -2,3 +2,16 @@ C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\Pr
 C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfoInputs.cache
 C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfo.cs
 C:\Users\solar\source\repos\JMF1DAW2\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.exe
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.deps.json
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.runtimeconfig.json
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.runtimeconfig.dev.json
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.dll
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\bin\Debug\netcoreapp3.1\ProyectoConsola.pdb
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.csprojAssemblyReference.cache
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfoInputs.cache
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.AssemblyInfo.cs
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.dll
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.pdb
+C:\Users\Lau 2019\Source\Repos\JMF1DAW1\practiac8Refactorizacion\ProyectoConsola\ProyectoConsola\obj\Debug\netcoreapp3.1\ProyectoConsola.genruntimeconfig.cache
